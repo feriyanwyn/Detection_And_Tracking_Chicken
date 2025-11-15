@@ -1,4 +1,4 @@
-# Project Title
+# Detection and Tracking Chicken
 
 A brief description of what this project does and who it's for.
 
