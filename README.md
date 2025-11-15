@@ -70,4 +70,4 @@ MIT License
 
 Your Name\
 Email: feriyanekananda@gmail.com
-GitHub: 
+GitHub: https://github.com/feriyanwyn
