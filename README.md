@@ -21,7 +21,7 @@ A brief description of what this project does and who it's for.
 
 ### 1. Clone the Repository
 
-    git clone https://github.com/yourusername/yourproject.git
+    git clone https://github.com/feriyanwyn/Detection_And_Tracking_Chicken
     cd yourproject
 
 ### 2. Create Virtual Environment (Optional)
@@ -69,5 +69,5 @@ MIT License
 ## ✉️ Contact
 
 Your Name\
-Email: your@email.com\
-GitHub: https://github.com/yourusername
+Email: feriyanekananda@gmail.com
+GitHub: 
